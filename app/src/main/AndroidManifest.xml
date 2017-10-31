@@ -18,7 +18,7 @@
         <!--Gunakan yang ini jika google API kamu disimpan di berkas google_map_api.xml-->
         <!--<meta-data-->
             <!--android:name="com.google.android.geo.API_KEY"-->
-            <!--android:value="@string/GOOGLE_MAP_API_KEY" />-->
+            <!--android:value="@string/google_maps_api_key" />-->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="${GOOGLE_MAP_API_KEY}" />
